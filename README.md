@@ -1,4 +1,4 @@
-# Assignment for Data Scientist Role at Movius - Hetansh Mehta 07/03/24
+# RAG chatbot with OpenAI GPT 3.5
 
 ## Steps to use : 
 1) Install all the requirements 
